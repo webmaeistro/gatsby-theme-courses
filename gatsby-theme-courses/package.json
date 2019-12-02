@@ -1,12 +1,12 @@
 {
-  "name": "@hangindev/gatsby-theme-courses",
+  "name": "@webmaeistro/gatsby-theme-courses",
   "version": "1.0.20",
-  "author": "Jason Leung <hangindev@gmail.com>",
+  "author": "Ma <marander@pm.me>",
   "description": "A Gatsby theme for building course platform. Use Youtube as video host.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hangindev/gatsby-theme-courses.git"
+    "url": "https://github.com/webmaeistro/gatsby-theme-courses.git"
   },
   "keywords": [
     "gatsby",
