@@ -2,13 +2,13 @@ const config = options => {
   const { mdx = true } = options;
   return {
     siteMetadata: {
-      title: `@hagnindev/gatsby-theme-courses`,
-      author: `HanginDev`,
+      title: `@webmaeistro/gatsby-theme-courses`,
+      author: `webmaeistro`,
       description: `A Gatsby theme for building course platform. Use Youtube as video host.`,
       social: [
         {
           name: `GitHub`,
-          url: `https://github.com/hangindev`,
+          url: `https://github.com/webmaeistro/`,
         },
       ],
     },
